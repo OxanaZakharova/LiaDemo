@@ -23,7 +23,7 @@ public class AddTest {
     @Test
     public void addTestNormalValue() {
         System.out.println("Test: normal values a=15, b=36, result=51");
-        assertEquals(math.add(15, 36), 50);
+        assertEquals(math.add(15, 36), 51);
     }
 
     @Test
